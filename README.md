@@ -1,7 +1,7 @@
-# A blank Mongoose OS library
+# A Ultrasonic Mongoose OS library
 
 
 ## Overview
 
-This blank library is intended to be used as a skeleton for deleloping
+This Ultrasonic library is intended to be used as a skeleton for deleloping
 Mongoose OS libraries.
